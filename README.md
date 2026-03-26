@@ -9,4 +9,4 @@ Semantic search over videos using Gemini Embedding 2.
 Deterministic automation alternative to OpenClaw's autonomous agent model
 
 ## Contact
-soham.raja04@gmail.com
+sohamraja04@gmail.com
