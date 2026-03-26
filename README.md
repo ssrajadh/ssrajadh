@@ -7,3 +7,6 @@ MS Computer Science @ UC Santa Cruz, building at the intersection of AI agents, 
 Semantic search over videos using Gemini Embedding 2.
 ### ScriptBox
 Deterministic automation alternative to OpenClaw's autonomous agent model
+
+## Contact
+soham.raja04@gmail.com
