@@ -1,6 +1,6 @@
 # Hey, I'm Soham 👋
 
-MSCS @ UC Santa Cruz (graduating June 2026), building at the intersection of AI agents, enterprise infrastructure, and developer tooling. Previously interned twice at HPE/Juniper Networks, where I built AI agent systems and CI/CD automation for production engineering teams. I'm open to SWE and Applied AI roles. Feel free to reach out on LinkedIn!
+MSCS @ UC Santa Cruz (graduating June 2026), building at the intersection of AI agents, enterprise infrastructure, and developer tooling. Previously interned twice at HPE/Juniper Networks, where I built AI agent systems and CI/CD automation for production engineering teams. I'm open to exciting SWE and Applied AI roles. Feel free to reach out on LinkedIn!
 
 ## Currently building
 ### SentrySearch
