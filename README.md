@@ -5,8 +5,6 @@ MS Computer Science @ UC Santa Cruz, building at the intersection of AI agents, 
 ## Currently building
 ### SentrySearch
 Semantic search over videos using Gemini Embedding 2.
-### ScriptBox
-Deterministic automation alternative to OpenClaw's autonomous agent model
 
 ## Contact
 sohamraja04@gmail.com
