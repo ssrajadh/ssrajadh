@@ -5,7 +5,7 @@
 Semantic search over videos using Gemini Embedding 2.
 
 ### SentryBlur
-Local face and license plate redaction for video
+Local object redaction for video
 
 ## Contact
 sohamraja04@gmail.com
